@@ -20,6 +20,8 @@
 
 ### 10in Rack U TBD
 
+decide on however many U s 8 or 4
+
 ### SBC Shelf 
 • https://thepihut.com/products/1u-10-sbc-shelf-for-deskpi-rackmate  
 • Rpi 4 + (Geekworm X630 V1.5 Hdmi to CSI-2
