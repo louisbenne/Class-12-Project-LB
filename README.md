@@ -33,7 +33,8 @@ Pi 4B/3B + & USB Splitter CM4 for Raspberry Pikvm HDMI CSI KVM IP pi ATX)
   • M720q or similar  
   • [3d printed inclosure](https://www.printables.com/model/1384009-10-inch-rack-mount-for-lenovo-thinkcentre-m920q-m7/related) or a ill likely use a similar one with a keystone port  
   • [M.2 to SATA3.0 Adapter Card](https://www.amazon.com/dp/B0B6Q6T94Z)  
-  • appropriate sata cables (lefty or righty for space)
+  • appropriate sata cables (lefty or righty for space)  
+  • 3d printed case needs to have an eth keystone RJ45 coupler for network
 
 ### Switch
 • [Rack mounted dumb switch](https://www.amazon.co.uk/ASSMANN-DIGITUS-Professional-Gigabit-Switch/dp/B079J5MNHK?th=1)
