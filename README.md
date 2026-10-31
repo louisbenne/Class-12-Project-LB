@@ -37,7 +37,10 @@ Pi 4B/3B + & USB Splitter CM4 for Raspberry Pikvm HDMI CSI KVM IP pi ATX)
   • 3d printed case needs to have an eth keystone RJ45 coupler for network
 
 ### Switch
-• [Rack mounted dumb switch](https://www.amazon.co.uk/ASSMANN-DIGITUS-Professional-Gigabit-Switch/dp/B079J5MNHK?th=1)
+• [Rack mounted dumb switch](https://www.amazon.co.uk/ASSMANN-DIGITUS-Professional-Gigabit-Switch/dp/B079J5MNHK?th=1)  
+
+
+### [Patch panel](https://thepihut.com/products/0-5u-10-cat6-12-port-patch-panel-for-deskpi-rackmate?variant=54202934100353&country=GB&currency=GBP)
 
 ### Drive bays
   • [3d printed 10 inch Rack 1U: 2x 2.5" + 1x 3.5" HDD - HOT SWAP!](www.makerworld.com/en/models/2854820-10-inch-rack-1u-2x-2-5-1x-3-5-hdd-hot-swap)
