@@ -48,8 +48,9 @@ Pi 4B/3B + & USB Splitter CM4 for Raspberry Pikvm HDMI CSI KVM IP pi ATX)
     • “NEW 08FKXC 2.5'' SAS SATA Server Tray Caddy for Dell PowerEdge R730 R630 T640 T630 HARD DRIVE Bracket 8FKXC” and/or
 
     • "2 PCS NEW 2Pcs/Lot 08FKXC 2.5'' SAS SATA Server Tray Caddy for Dell PowerEdge R730 R630 T640 T630 HDD Bracket Drawer 8FKXC G176J"  
+   3x [SATA Male To Female Power Data Converter 22Pin 7+15](https://www.aliexpress.com/i/1005010151565323.html)
     
-• power needs to be found.
+### [Power MGMT](https://pduonline.co.uk/product/4-way-10-inch-horizontal-uk-pdu/?_gl=1*n0vdfe*_up*MQ..*_ga*NTgzMjIxNTA0LjE3OTM0NzkwMzg.*_ga_B8DY755RGG*czE3OTM0NzkwMzckbzEkZzEkdDE3OTM0NzkwMzckajYwJGwwJGgw)
 
 ### Power Strip
 [power strip mounted at the rear](https://www.dcdi.co.uk/soho-1u-10-horizontal-pdu-3-way-uk-sockets?model=D410050)
