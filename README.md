@@ -32,6 +32,8 @@ decide on however many U s 8 or 4
 - appropriate sata cables [left](https://www.amazon.com/dp/B004KDTTXW) & [large head varent](https://www.amazon.com/dp/B08FTLXV64) & [right](https://www.amazon.com/dp/B00L1FOXZG)
 - 3d printed case needs to have an eth keystone RJ45 coupler for network
 
+### Future firewall - mini pc
+
 ### Switch
 
 - [Rack mounted dumb switch](https://www.amazon.co.uk/ASSMANN-DIGITUS-Professional-Gigabit-Switch/dp/B079J5MNHK?th=1)
