@@ -38,7 +38,7 @@
 
 - [ ] [Rack mounted dumb switch](https://www.amazon.co.uk/ASSMANN-DIGITUS-Professional-Gigabit-Switch/dp/B079J5MNHK?th=1)
 
-### [Patch panel](https://thepihut.com/products/0-5u-10-cat6-12-port-patch-panel-for-deskpi-rackmate?variant=54202934100353&country=GB&currency=GBP)
+[x] ### [Patch panel](https://thepihut.com/products/0-5u-10-cat6-12-port-patch-panel-for-deskpi-rackmate?variant=54202934100353&country=GB&currency=GBP)
 
 ### Drive bays
 
