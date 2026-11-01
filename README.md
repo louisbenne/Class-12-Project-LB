@@ -52,6 +52,4 @@ Pi 4B/3B + & USB Splitter CM4 for Raspberry Pikvm HDMI CSI KVM IP pi ATX)
     
 ### [Power MGMT](https://pduonline.co.uk/product/4-way-10-inch-horizontal-uk-pdu/?_gl=1*n0vdfe*_up*MQ..*_ga*NTgzMjIxNTA0LjE3OTM0NzkwMzg.*_ga_B8DY755RGG*czE3OTM0NzkwMzckbzEkZzEkdDE3OTM0NzkwMzckajYwJGwwJGgw)
 
-### Power Strip
-[power strip mounted at the rear](https://www.dcdi.co.uk/soho-1u-10-horizontal-pdu-3-way-uk-sockets?model=D410050)
- 
+
