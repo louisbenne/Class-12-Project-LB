@@ -24,7 +24,7 @@ decide on however many U s 8 or 4
 - Rpi 4 + (Geekworm X630 V1.5 Hdmi to CSI-2 Module for Raspberry Pi, Hdmi Input Bridge TC358743 Supports up to 1080p/25Fps Compatible with Raspberry Pi 4B/3B + & USB Splitter CM4 for Raspberry Pikvm HDMI CSI KVM IP pi ATX)
 - Rpi 3
 
-### Mini pc on shelf or 3d printed
+### Mini pc printed inclosure
 
 - Optiplex 3070 similar
 - [3d printed inclosure](https://www.printables.com/model/1384009-10-inch-rack-mount-for-lenovo-thinkcentre-m920q-m7/related) or a ill likely use a similar one with a keystone port
