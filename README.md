@@ -30,7 +30,7 @@ Pi 4B/3B + & USB Splitter CM4 for Raspberry Pikvm HDMI CSI KVM IP pi ATX)
 • Rpi 3
 
 ### Mini pc on shelf or 3d printed 
-  • M720q or similar  
+  • Optiplex 3070 similar  
   • [3d printed inclosure](https://www.printables.com/model/1384009-10-inch-rack-mount-for-lenovo-thinkcentre-m920q-m7/related) or a ill likely use a similar one with a keystone port  
   • [M.2 to SATA3.0 Adapter Card](https://www.amazon.com/dp/B0B6Q6T94Z)  
   • appropriate sata cables [left](https://www.amazon.com/dp/B004KDTTXW)  & [large head varent](https://www.amazon.com/dp/B08FTLXV64) & [right](https://www.amazon.com/dp/B00L1FOXZG)  
