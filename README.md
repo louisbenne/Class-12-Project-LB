@@ -14,7 +14,7 @@
 
 ## Parts List
 
-### 10in Rack U TBD
+### [10in Rack 8U](https://deskpi.com/products/deskpi-rackmate-t1-black-rackmount-10-inch-8u-server-cabinet-for-network-servers-audio-and-video-equipment)
 
 decide on however many U s 8 or 4
 
