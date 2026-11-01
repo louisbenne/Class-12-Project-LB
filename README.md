@@ -20,14 +20,15 @@
 ### SBC Shelf
 
 - https://thepihut.com/products/1u-10-sbc-shelf-for-deskpi-rackmate
-- Rpi 4 + (Geekworm X630 V1.5 Hdmi to CSI-2 Module for Raspberry Pi, Hdmi Input Bridge TC358743 Supports up to 1080p/25Fps Compatible with Raspberry Pi 4B/3B + & USB Splitter CM4 for Raspberry Pikvm HDMI CSI KVM IP pi ATX)
+- Rpi 4
+- [x] (Geekworm X630 V1.5 Hdmi to CSI-2 Module for Raspberry Pi, Hdmi Input Bridge TC358743 Supports up to 1080p/25Fps Compatible with Raspberry Pi 4B/3B + & USB Splitter CM4 for Raspberry Pikvm HDMI CSI KVM IP pi ATX)
 - Rpi 3
 
 ### Mini pc printed inclosure
 
 - Optiplex 3070 similar
 - [3d printed inclosure](https://www.printables.com/model/1384009-10-inch-rack-mount-for-lenovo-thinkcentre-m920q-m7/related) or a ill likely use a similar one with a keystone port
-- [M.2 to SATA3.0 Adapter Card](https://www.amazon.com/dp/B0B6Q6T94Z)
+- [x] [M.2 to SATA3.0 Adapter Card](https://www.amazon.com/dp/B0B6Q6T94Z)
 - appropriate sata cables [left](https://www.amazon.com/dp/B004KDTTXW) & [large head varent](https://www.amazon.com/dp/B08FTLXV64) & [right](https://www.amazon.com/dp/B00L1FOXZG)
 - 3d printed case needs to have an eth keystone RJ45 coupler for network
 
@@ -35,7 +36,7 @@
 
 ### Switch
 
-- [Rack mounted dumb switch](https://www.amazon.co.uk/ASSMANN-DIGITUS-Professional-Gigabit-Switch/dp/B079J5MNHK?th=1)
+- [ ] [Rack mounted dumb switch](https://www.amazon.co.uk/ASSMANN-DIGITUS-Professional-Gigabit-Switch/dp/B079J5MNHK?th=1)
 
 ### [Patch panel](https://thepihut.com/products/0-5u-10-cat6-12-port-patch-panel-for-deskpi-rackmate?variant=54202934100353&country=GB&currency=GBP)
 
@@ -44,10 +45,10 @@
 - [3d printed 10 inch Rack 1U: 2x 2.5" + 1x 3.5" HDD - HOT SWAP!](https://www.makerworld.com/en/models/2854820-10-inch-rack-1u-2x-2-5-1x-3-5-hdd-hot-swap)
   - “NEW 08FKXC 2.5'' SAS SATA Server Tray Caddy for Dell PowerEdge R730 R630 T640 T630 HARD DRIVE Bracket 8FKXC” and/or
   - "2 PCS NEW 2Pcs/Lot 08FKXC 2.5'' SAS SATA Server Tray Caddy for Dell PowerEdge R730 R630 T640 T630 HDD Bracket Drawer 8FKXC G176J"
-- 3x [SATA Male To Female Power Data Converter 22Pin 7+15](https://www.aliexpress.com/i/1005010151565323.html)
-- [Drive Power](https://www.amazon.com/dp/B0FQNL35WC) and [Mains Plug](https://hunterfield.co.uk/product/12v-10a-2555/)
+- [x] 3x [SATA Male To Female Power Data Converter 22Pin 7+15](https://www.aliexpress.com/i/1005010151565323.html)
+-[x] [Drive Power](https://www.amazon.com/dp/B0FQNL35WC) and [x] [Mains Plug](https://hunterfield.co.uk/product/12v-10a-2555/)
 
-### [Power MGMT](https://pduonline.co.uk/product/4-way-10-inch-horizontal-uk-pdu/?_gl=1*n0vdfe*_up*MQ..*_ga*NTgzMjIxNTA0LjE3OTM0NzkwMzg.*_ga_B8DY755RGG*czE3OTM0NzkwMzckbzEkZzEkdDE3OTM0NzkwMzckajYwJGwwJGgw)   
+### [x] [Power MGMT](https://pduonline.co.uk/product/4-way-10-inch-horizontal-uk-pdu/?_gl=1*n0vdfe*_up*MQ..*_ga*NTgzMjIxNTA0LjE3OTM0NzkwMzg.*_ga_B8DY755RGG*czE3OTM0NzkwMzckbzEkZzEkdDE3OTM0NzkwMzckajYwJGwwJGgw)   
 
 ### Vids  
 https://www.youtube.com/watch?v=JCYT7M1rAEA
