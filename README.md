@@ -14,7 +14,7 @@
 
 ## Parts List
 
-### [10in Rack 8U](https://deskpi.com/products/deskpi-rackmate-t1-black-rackmount-10-inch-8u-server-cabinet-for-network-servers-audio-and-video-equipment)
+### [10in Rack 8U](https://www.amazon.co.uk/gp/product/B0FBFDZD4C/ref=ox_sc_act_title_2?smid=A187Y4UVM6ZA0X&psc=1)
 
 
 ### SBC Shelf
