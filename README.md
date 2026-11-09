@@ -27,7 +27,7 @@
 ### Mini pc printed inclosure
 
 - [x] Optiplex 3070 similar
-- [3d printed inclosure](https://www.printables.com/model/1384009-10-inch-rack-mount-for-lenovo-thinkcentre-m920q-m7/related) or a ill likely use a similar one with a keystone port
+- [3d printed inclosure](https://3dgo.app/models/makerworld/1411388)
 - [x] [M.2 to SATA3.0 Adapter Card](https://www.amazon.com/dp/B0B6Q6T94Z)
 - appropriate sata cables [left](https://www.amazon.com/dp/B004KDTTXW) & [large head varent](https://www.amazon.com/dp/B08FTLXV64) & [right](https://www.amazon.com/dp/B00L1FOXZG)
 - 3d printed case needs to have an eth keystone RJ45 coupler for network
