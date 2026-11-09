@@ -14,7 +14,7 @@
 
 ## Parts List
 
-### [10in Rack 8U](https://www.amazon.co.uk/gp/product/B0FBFDZD4C/ref=ox_sc_act_title_2?smid=A187Y4UVM6ZA0X&psc=1)
+### [x] [10in Rack 8U](https://www.amazon.co.uk/gp/product/B0FBFDZD4C/ref=ox_sc_act_title_2?smid=A187Y4UVM6ZA0X&psc=1)
 
 
 ### SBC Shelf
@@ -26,7 +26,7 @@
 
 ### Mini pc printed inclosure
 
-- Optiplex 3070 similar
+- [x] Optiplex 3070 similar
 - [3d printed inclosure](https://www.printables.com/model/1384009-10-inch-rack-mount-for-lenovo-thinkcentre-m920q-m7/related) or a ill likely use a similar one with a keystone port
 - [x] [M.2 to SATA3.0 Adapter Card](https://www.amazon.com/dp/B0B6Q6T94Z)
 - appropriate sata cables [left](https://www.amazon.com/dp/B004KDTTXW) & [large head varent](https://www.amazon.com/dp/B08FTLXV64) & [right](https://www.amazon.com/dp/B00L1FOXZG)
@@ -34,7 +34,7 @@
 
 ### Future firewall - mini pc
 
-### Switch
+### [x] Switch
 
 - [x] [Rack mounted dumb switch](https://www.amazon.co.uk/ASSMANN-DIGITUS-Professional-Gigabit-Switch/dp/B079J5MNHK?th=1)
 
