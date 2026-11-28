@@ -14,12 +14,11 @@
 # Rack #
 
 ## Parts List
-
-### [x] [10in Rack 8U](https://www.amazon.co.uk/gp/product/B0FBFDZD4C/ref=ox_sc_act_title_2?smid=A187Y4UVM6ZA0X&psc=1)
+### 10in Rack 8U ### 
+- [x]  [10in Rack 8U](https://www.amazon.co.uk/gp/product/B0FBFDZD4C/ref=ox_sc_act_title_2?smid=A187Y4UVM6ZA0X&psc=1)
 
 
 ### SBC Shelf
-
 
 - https://thepihut.com/products/1u-10-sbc-shelf-for-deskpi-rackmate
 - Rpi 4
@@ -29,18 +28,19 @@
 ### Mini pc printed inclosure
 
 - [x] Optiplex 3070 similar
-- [3d printed inclosure](https://3dgo.app/models/makerworld/1411388)
+- [x] [3d printed inclosure](https://3dgo.app/models/makerworld/1411388)
 - [x] [M.2 to SATA3.0 Adapter Card](https://www.amazon.com/dp/B0B6Q6T94Z)
 - appropriate sata cables [left](https://www.amazon.com/dp/B004KDTTXW) & [large head varent](https://www.amazon.com/dp/B08FTLXV64) & [right](https://www.amazon.com/dp/B00L1FOXZG)
-- 3d printed case needs to have an eth keystone RJ45 coupler for network
 
-### Future firewall - mini pc
+### Future firewall - mini pc/SBC
 
-### [x] Switch
+### Switch
 
 - [x] [Rack mounted dumb switch](https://www.amazon.co.uk/ASSMANN-DIGITUS-Professional-Gigabit-Switch/dp/B079J5MNHK?th=1)
 
- ### [x] [Patch panel](https://thepihut.com/products/0-5u-10-cat6-12-port-patch-panel-for-deskpi-rackmate?variant=54202934100353&country=GB&currency=GBP)
+### Patch Panel
+
+- [x] [Patch panel](https://thepihut.com/products/0-5u-10-cat6-12-port-patch-panel-for-deskpi-rackmate?variant=54202934100353&country=GB&currency=GBP)
 
 ### Drive bays
 
