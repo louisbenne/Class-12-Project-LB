@@ -55,5 +55,15 @@
 
 - [x] [Power Strip](https://pduonline.co.uk/product/4-way-10-inch-horizontal-uk-pdu/?_gl=1*n0vdfe*_up*MQ..*_ga*NTgzMjIxNTA0LjE3OTM0NzkwMzg.*_ga_B8DY755RGG*czE3OTM0NzkwMzckbzEkZzEkdDE3OTM0NzkwMzckajYwJGwwJGgw)   
 
-### Vids  
+### Refrance videos
 https://www.youtube.com/watch?v=JCYT7M1rAEA
+
+
+# Build
+
+
+
+<img width="3024" height="4032" alt="IMG_5970" src="https://github.com/user-attachments/assets/6f3538e1-2e9b-4527-bd6d-21af63d3be5b" />
+
+<img width="2149" height="3084" alt="IMG_1029" src="https://github.com/user-attachments/assets/c6d0f5fb-f4a7-4f40-903b-c5a9d9903529" />
+
